@@ -52,7 +52,7 @@
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/-MongoDB-success?logo=mongodb"/></a>
+    <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/-MongoDB-success?logo=mongodb&logoColor=white"/></a>
   &emsp;
     <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/-AWS-orange?logo=amazon&logoColor=white"></a>  
   &emsp;
