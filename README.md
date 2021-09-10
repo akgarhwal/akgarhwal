@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Data+Structure%20|%20Algorithm;GO%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<!-- <h4 align="center">About me</h4> -->
+<h4 align="center">Software engineer with an avid interest in data structures, algorithms, and optimization.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akgarhwal&label=Abhinesh's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
 
