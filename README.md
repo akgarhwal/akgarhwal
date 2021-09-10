@@ -5,8 +5,6 @@
 </p>
 <hr/>
 <h4 align="center">Software engineer with an avid interest in data structures, algorithms, and optimization.</h4>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akgarhwal&label=Abhinesh's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
 
 ## 🔥 Streak Stats
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akgarhwal&theme=algolia" alt="akgarhwal" /></p>
@@ -117,13 +115,7 @@
 	
 </p>
 
-
-
-
-
-<!--img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;"/-->
-
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akgarhwal&label=Abhinesh's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
 
 
 
