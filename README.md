@@ -24,13 +24,13 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
      <img alt="C#" src="https://img.shields.io/badge/-C%23-success?logo=csharp&logoColor=white">
    </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
   &emsp; 
   <a href="https://golang.org/">
     <img alt="GO" src="https://img.shields.io/badge/-GO-blue?logo=go&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
