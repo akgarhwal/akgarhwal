@@ -85,7 +85,13 @@
 
 ## 🔥 LeetCode Stats
 <!-- [![akgarhwal's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=akgarhwal&theme=Dark)](https://leetcode.com/akgarhwal/) -->
-<p align="center"><img align="center" src="https://leetcode-stats.vercel.app/api?username=akgarhwal&theme=Dark" alt="akgarhwal's LeetCode Stats" /></p>
+<!-- <p align="center"><img align="center" src="https://leetcode-stats.vercel.app/api?username=akgarhwal&theme=Dark" alt="akgarhwal's LeetCode Stats" /></p> -->
+
+<!-- Better LeetCode Stats: https://leetcard.jacoblin.cool/ -->
+
+<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/akgarhwal?theme=dark&font=Fira%20Code&ext=contest&animation=true&hide=ranking" alt="akgarhwal's LeetCode Stats" /></p>
+
+
 
 <br/>
 
