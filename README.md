@@ -79,7 +79,7 @@
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akgarhwal&theme=tokyonight)](https://git.io/streak-stats) -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akgarhwal&theme=tokyonight_duo)](https://git.io/streak-stats) -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akgarhwal&theme=tokyonight_duo" alt="akgarhwal" /></p>
+<p align="center"><a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akgarhwal&theme=tokyonight_duo" alt="akgarhwal" /></a></p>
 
 <br/>
 
@@ -88,8 +88,7 @@
 <!-- <p align="center"><img align="center" src="https://leetcode-stats.vercel.app/api?username=akgarhwal&theme=Dark" alt="akgarhwal's LeetCode Stats" /></p> -->
 
 <!-- Better LeetCode Stats: https://leetcard.jacoblin.cool/ -->
-
-<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/akgarhwal?theme=dark&font=Fira%20Code&ext=contest&animation=true&hide=ranking" alt="akgarhwal's LeetCode Stats" /></p>
+<p align="center"><a href="https://leetcode.com/akgarhwal/" target="_"><img align="center" src="https://leetcard.jacoblin.cool/akgarhwal?theme=dark&font=Fira%20Code&ext=contest&animation=true&hide=ranking" alt="akgarhwal's LeetCode Stats" /></a></p>
 
 
 
