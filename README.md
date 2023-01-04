@@ -75,7 +75,17 @@
 <br/>
 
 ## 🔥 Streak Stats
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akgarhwal&theme=algolia" alt="akgarhwal" /></p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akgarhwal&theme=algolia" alt="akgarhwal" /></p> -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akgarhwal&theme=tokyonight)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akgarhwal&theme=tokyonight_duo)](https://git.io/streak-stats) -->
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akgarhwal&theme=tokyonight_duo" alt="akgarhwal" /></p>
+
+<br/>
+
+## 🔥 LeetCode Stats
+<!-- [![akgarhwal's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=akgarhwal&theme=Dark)](https://leetcode.com/akgarhwal/) -->
+<p align="center"><img align="center" src="https://leetcode-stats.vercel.app/api?username=akgarhwal&theme=Dark" alt="akgarhwal's LeetCode Stats" /></p>
 
 <br/>
 
