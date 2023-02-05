@@ -20,19 +20,19 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
-  &emsp;
+  &emsp; 
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  </a> 
+  &emsp; 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
      <img alt="C#" src="https://img.shields.io/badge/-C%23-success?logo=csharp&logoColor=white">
-   </a>
+   </a> 
   &emsp; 
   <a href="https://golang.org/">
     <img alt="GO" src="https://img.shields.io/badge/-GO-blue?logo=go&logoColor=white"/>
   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
+  &emsp; 
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
