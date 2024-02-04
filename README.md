@@ -120,7 +120,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/akgarhwal"><img alt="Abhinesh's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=akgarhwal&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark"/></a>
+   <a href="https://github.com/akgarhwal"><img alt="Abhinesh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=akgarhwal&bg_color=222021&color=17e8c5&line=3f8128&point=7f7a3d&area=true&hide_border=true"/></a>
   <br/>
 
 </details>
