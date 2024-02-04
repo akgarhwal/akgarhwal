@@ -48,6 +48,8 @@
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
+    <a href="https://www.mongodb.com/"><img alt="DynamoDB" src ="https://img.shields.io/badge/-DynamoDB-success?logo=amazon-dynamodb&logoColor=white"/></a>
+  &emsp;
     <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/-MongoDB-success?logo=mongodb&logoColor=white"/></a>
   &emsp;
     <a href="https://redis.io/"><img alt="Redis" src ="https://img.shields.io/badge/-Redis-red?logo=redis&logoColor=white"/></a>
