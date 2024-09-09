@@ -12,52 +12,33 @@
 ### 👉 Programming languages
 
 <p align="left"> 
-<!--   &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a>  -->
- 
-  &emsp; 
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a> 
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp; 
-  <a href="https://golang.org/">
-    <img alt="GO" src="https://img.shields.io/badge/-GO-blue?logo=go&logoColor=white"/>
-  </a>
-  &emsp; 
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-     <img alt="C#" src="https://img.shields.io/badge/-C%23-success?logo=csharp&logoColor=white">
-   </a> 
-  &emsp; 
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
+  <a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white" /></a> 
   &emsp;
-<!--   <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
-  &emsp; -->
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white" /></a> 
+  &emsp; 
+  <a href="https://golang.org/" target="_blank"><img alt="GO" src="https://img.shields.io/badge/-GO-blue?logo=go&logoColor=white"/></a>
+  &emsp; 
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img alt="C#" src="https://img.shields.io/badge/-C%23-success?logo=csharp&logoColor=white"></a> 
+  &emsp; 
+  <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+  &emsp;
 </p>
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
-    <a href="https://www.mongodb.com/"><img alt="DynamoDB" src ="https://img.shields.io/badge/-DynamoDB-success?logo=amazon-dynamodb&logoColor=white"/></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img alt="DynamoDB" src ="https://img.shields.io/badge/-DynamoDB-success?logo=amazon-dynamodb&logoColor=white"/></a>
   &emsp;
-    <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/-MongoDB-success?logo=mongodb&logoColor=white"/></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src ="https://img.shields.io/badge/-MongoDB-success?logo=mongodb&logoColor=white"/></a>
   &emsp;
-    <a href="https://redis.io/"><img alt="Redis" src ="https://img.shields.io/badge/-Redis-red?logo=redis&logoColor=white"/></a>
+    <a href="https://redis.io/" target="_blank"><img alt="Redis" src ="https://img.shields.io/badge/-Redis-red?logo=redis&logoColor=white"/></a>
   &emsp;
-    <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/-AWS-orange?logo=amazon&logoColor=white"></a>  
+    <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/-AWS-orange?logo=amazon&logoColor=white"></a>  
   &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
+    <a href="https://firebase.google.com/" target="_blank"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
  &emsp; 
 </p>
 
