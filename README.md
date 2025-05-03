@@ -28,7 +28,7 @@
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.mongodb.com/" target="_blank"><img alt="DynamoDB" src ="https://img.shields.io/badge/-DynamoDB-success?logo=amazon-dynamodb&logoColor=white"/></a>
+    <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img alt="DynamoDB" src ="https://img.shields.io/badge/-DynamoDB-success?logo=amazon-dynamodb&logoColor=white"/></a>
   &emsp;
     <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
