@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Data+Structure%20|%20Algorithm;Gen%20AI%20Enthusiast;Distributed%20System;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Software Engineer with 7+ years of experience building scalable, resilient systems across startups and global tech companies.</h4>
+<h4 align="center">Software Engineer with 8+ years of experience building scalable, resilient systems across startups and global tech companies.</h4>
 
 
 ## 🛠️ My Skills
